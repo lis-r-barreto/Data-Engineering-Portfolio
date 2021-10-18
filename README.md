@@ -1,6 +1,6 @@
 # Projects
 
-1. Profitable App Profiles for the App Store and Google Play Markets
+1. [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/01_Profitable_App_Profiles_for_the_App_Store_and_Google_Play_Markets.ipynb)
 2. Exploring Hacker News Posts
 3. Building Fast Queries on a CSV
 4. Analyzing CIA Factbook Data Using SQL
