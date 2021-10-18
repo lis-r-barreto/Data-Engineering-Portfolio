@@ -4,7 +4,7 @@
 2. Exploring Hacker News Posts
 3. Building Fast Queries on a CSV
 4. [Analyzing CIA Factbook Data Using SQL](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/04_Analyzing_CIA_Factbook_Data_Using_SQL.ipynb)
-5. Answering Business Questions using SQL
+5. [Answering Business Questions using SQL](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/05_Answering_Business_Questions_using_SQL.ipynb)
 6. Building a database for crime reports
 7. Practice Optimizing DataFrames and Processing in Chunks
 8. Analyzing Startup Fundraising Deals from Crunchbase
