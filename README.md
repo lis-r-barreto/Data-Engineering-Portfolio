@@ -7,7 +7,7 @@
 5. [Answering Business Questions using SQL](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/05_Answering_Business_Questions_using_SQL.ipynb)
 6. Building a database for crime reports
 7. Practice Optimizing DataFrames and Processing in Chunks
-8. Analyzing Startup Fundraising Deals from Crunchbase
+8. [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/08_Analyzing_Startup_Fundraising_Deals_from_Crunchbase.ipynb)
 9. Analyzing Wikipedia Pages
 10. Analyzing Stock Prices
 11. Evaluating Numerical Expressions
