@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data_engineering_cover.png" >
+  <img src="https://github.com/lis-r-barreto/Data-Engineering/blob/main/data-engineering-cover.png" >
 </p>
 
 # Projects
