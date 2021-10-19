@@ -15,5 +15,5 @@
 9. [Analyzing Wikipedia Pages](https://github.com/lis-r-barreto/Data-Engineering/blob/main/09_Analyzing_Wikipedia_Pages.ipynb)
 10. [Analyzing Stock Prices](https://github.com/lis-r-barreto/Data-Engineering/blob/main/10_Analyzing_Stock_Prices.ipynb)
 11. [Evaluating Numerical Expressions](https://github.com/lis-r-barreto/Data-Engineering/blob/main/11_Evaluating_Numerical_Expressions.ipynb)
-12. Implementing a Key-Value Database
+12. [Implementing a Key-Value Database](https://github.com/lis-r-barreto/Data-Engineering/blob/main/12_Implementing_a_Key_Value_Database.ipynb)
 13. [Hacker News Pipeline](https://github.com/lis-r-barreto/Data-Engineering/blob/main/13_Hacker_News_Pipeline.ipynb)
