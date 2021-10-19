@@ -8,7 +8,7 @@
 6. Building a database for crime reports
 7. Practice Optimizing DataFrames and Processing in Chunks
 8. [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/08_Analyzing_Startup_Fundraising_Deals_from_Crunchbase.ipynb)
-9. Analyzing Wikipedia Pages
+9. [Analyzing Wikipedia Pages](https://github.com/lis-r-barreto/Data-Engineer-Career-Path/blob/main/09_Analyzing_Wikipedia_Pages.ipynb)
 10. Analyzing Stock Prices
 11. Evaluating Numerical Expressions
 12. Implementing a Key-Value Database
