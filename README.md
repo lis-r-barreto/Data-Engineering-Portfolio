@@ -14,6 +14,6 @@
 8. [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/lis-r-barreto/Data-Engineering/blob/main/08_Analyzing_Startup_Fundraising_Deals_from_Crunchbase.ipynb)
 9. [Analyzing Wikipedia Pages](https://github.com/lis-r-barreto/Data-Engineering/blob/main/09_Analyzing_Wikipedia_Pages.ipynb)
 10. [Analyzing Stock Prices](https://github.com/lis-r-barreto/Data-Engineering/blob/main/10_Analyzing_Stock_Prices.ipynb)
-11. Evaluating Numerical Expressions
+11. [Evaluating Numerical Expressions](https://github.com/lis-r-barreto/Data-Engineering/blob/main/11_Evaluating_Numerical_Expressions.ipynb)
 12. Implementing a Key-Value Database
 13. Hacker News Pipeline
