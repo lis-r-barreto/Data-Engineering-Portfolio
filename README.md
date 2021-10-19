@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="data_engineering_cover.png" >
+</p>
+
 # Projects
 
 1. [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/lis-r-barreto/Data-Engineering/blob/main/01_Profitable_App_Profiles_for_the_App_Store_and_Google_Play_Markets.ipynb)
