@@ -10,7 +10,7 @@
 4. [Analyzing CIA Factbook Data Using SQL](https://github.com/lis-r-barreto/Data-Engineering/blob/main/04_Analyzing_CIA_Factbook_Data_Using_SQL.ipynb)
 5. [Answering Business Questions using SQL](https://github.com/lis-r-barreto/Data-Engineering/blob/main/05_Answering_Business_Questions_using_SQL.ipynb)
 6. [Building a database for crime reports](https://github.com/lis-r-barreto/Data-Engineering/blob/main/06_Building_a_PostgreSQL_database_for_crime_reports.ipynb)
-7. Practice Optimizing DataFrames and Processing in Chunks
+7. [Practice Optimizing DataFrames and Processing in Chunks](https://github.com/lis-r-barreto/Data-Engineering/blob/main/07_Practice_Optimizing_DataFrames_and_Processing_in_Chunks.ipynb)
 8. [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/lis-r-barreto/Data-Engineering/blob/main/08_Analyzing_Startup_Fundraising_Deals_from_Crunchbase.ipynb)
 9. [Analyzing Wikipedia Pages](https://github.com/lis-r-barreto/Data-Engineering/blob/main/09_Analyzing_Wikipedia_Pages.ipynb)
 10. [Analyzing Stock Prices](https://github.com/lis-r-barreto/Data-Engineering/blob/main/10_Analyzing_Stock_Prices.ipynb)
