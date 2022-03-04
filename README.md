@@ -6,7 +6,8 @@
 
 * Notebook do projeto: [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/lis-r-barreto/Data-Engineering/blob/main/01_Profitable_App_Profiles_for_the_App_Store_and_Google_Play_Markets.ipynb)
   * Tutorial no DEV.to: [Analisando Dados da App Store e Google Play](https://dev.to/lisrbarreto/series/15091)
-* [Exploring Hacker News Posts](https://github.com/lis-r-barreto/Data-Engineering/blob/main/02_Exploring_Hacker_News_Posts.ipynb)
+* Notebook do projeto: [Exploring Hacker News Posts](https://github.com/lis-r-barreto/Data-Engineering/blob/main/02_Exploring_Hacker_News_Posts.ipynb)
+  * Tutorial no DEV.to: [Analisando Posts do Hacker News](https://dev.to/lisrbarreto/projeto-analisando-posts-do-hacker-news-2m42)
 * [Building Fast Queries on a CSV](https://github.com/lis-r-barreto/Data-Engineering/blob/main/03_Building_Fast_Queries_on_a_CSV.ipynb)
 * [Analyzing CIA Factbook Data Using SQL](https://github.com/lis-r-barreto/Data-Engineering/blob/main/04_Analyzing_CIA_Factbook_Data_Using_SQL.ipynb)
 * [Answering Business Questions using SQL](https://github.com/lis-r-barreto/Data-Engineering/blob/main/05_Answering_Business_Questions_using_SQL.ipynb)
